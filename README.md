@@ -1,6 +1,6 @@
 ### 👋 Hi there, my name's Andy.
 
-Coming from Montreal, Canada - I am a Data Scientist and Master of Science (MSc) student in Artificial Intelligence with a structured approach and a knack for creative solutions to real-world problems. I am passionate about health, education, and sustainable practices.
+Coming from Montreal, Canada - I am a Data Scientist and Master of Science (MSc) student in Data Science & Artificial Intelligence with a structured approach and a knack for creative solutions to real-world problems. I am passionate about health, education, and sustainable practices.
 
 I have experience in the nutrition, pharmaceutical, and health-tech sectors and I am currently working full-time as a Data Analyst at Oviva - working with the NHS to help Type 2 Diabetic patients while funding my independent postgraduate studies in AI. 
 
